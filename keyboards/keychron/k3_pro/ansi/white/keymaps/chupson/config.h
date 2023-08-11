@@ -8,3 +8,5 @@
 
 #define MK_C_OFFSET_2 32
 #define MK_C_INTERVAL_2 16
+
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
